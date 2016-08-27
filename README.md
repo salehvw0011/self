@@ -1,6 +1,4 @@
-# Beyond Self Bot Version 2.0
 
-**An Fun bot based on [TeleSeed](https://github.com/SEEDTEAM/TeleSeed) licensed under the [GNU General Public License](https://github.com/BeyondTeam/Self-Bot/blob/master/LICENSE)**.
 
 #Don't Forget Star To Us :)
 #یادتون نره بهمون ستاره بدید :)
@@ -50,29 +48,7 @@ Then Enter Your Phone And Confirmation Code
 killall screen
 killall tmux
 killall telegram-cli
-tmux new-session -s script "bash beyond.sh -t"
-```
-
-#Developer&Founder : 
-#[SoLiD021](https://telegram.me/SoLiD021)
-
-#Developer&Manager : 
-#[AliReza](https://telegram.me/CliApi)
-
-* * *
-
-# Special Thx To :
-###Seed Team
-
-###And All My Friends :D
-
-#Team Channel :
-
-#[@BeyondTeam](https://telegram.me/BeyondTeam)
-
-###اگر مشکلی داشتید به لینک زیر بیاید و مطرح کنید
-###If You Have Any Problem With Source, Join To Link And Ask About Your Problem
-#[White And TeleBeyond Support](https://telegram.me/joinchat/DH-5lD7jQzzsY5f8ngQnaQ)
+tmux new-session -s script "bash beyond.sh 
 
 #موفق باشید -_-
 #Good Luck -_-
